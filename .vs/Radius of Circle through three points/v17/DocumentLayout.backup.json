@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dcard\\OneDrive\\Desktop\\Visua Basic NXOpen\\Radius of Circle through three points\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6455FDC6-B968-4B6C-8DF7-48F695328EF6}|Radius of Circle through three points\\Radius of Circle through three points.vbproj|c:\\users\\dcard\\onedrive\\desktop\\visua basic nxopen\\radius of circle through three points\\radius of circle through three points\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6455FDC6-B968-4B6C-8DF7-48F695328EF6}|Radius of Circle through three points\\Radius of Circle through three points.vbproj|solutionrelative:radius of circle through three points\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\dcard\\OneDrive\\Desktop\\Visua Basic NXOpen\\Radius of Circle through three points\\Radius of Circle through three points\\Program.vb",
+              "RelativeDocumentMoniker": "Radius of Circle through three points\\Program.vb",
+              "ToolTip": "C:\\Users\\dcard\\OneDrive\\Desktop\\Visua Basic NXOpen\\Radius of Circle through three points\\Radius of Circle through three points\\Program.vb",
+              "RelativeToolTip": "Radius of Circle through three points\\Program.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-14T09:12:57.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\Radius of Circle through three points.exe
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\Radius of Circle through three points.deps.json
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\Radius of Circle through three points.runtimeconfig.json
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\Radius of Circle through three points.dll
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\Radius of Circle through three points.pdb
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\NXOpen.dll
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\NXOpen.Guide.dll
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\NXOpen.UF.dll
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\NXOpen.Utilities.dll
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\NXOpenUI.dll
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\NXOpen.xml
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\NXOpen.Guide.xml
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\NXOpen.UF.xml
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\NXOpen.Utilities.xml
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\bin\Debug\net8.0\NXOpenUI.xml
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\Radius of Circle through three points.vbproj.AssemblyReference.cache
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\Radius of Circle through three points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\Radius of Circle through three points.AssemblyInfoInputs.cache
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\Radius of Circle through three points.AssemblyInfo.vb
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\Radius of Circle through three points.vbproj.CoreCompileInputs.cache
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\Radius o.76072D5D.Up2Date
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\Radius of Circle through three points.dll
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\refint\Radius of Circle through three points.dll
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\Radius of Circle through three points.pdb
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\Radius of Circle through three points.genruntimeconfig.cache
+C:\Users\dcard\OneDrive\Desktop\Visua Basic NXOpen\Radius of Circle through three points\Radius of Circle through three points\obj\Debug\net8.0\ref\Radius of Circle through three points.dll
